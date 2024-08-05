@@ -1,0 +1,370 @@
+Game 1:
+  Total kills: 0
+  Players: {"Isgalamido"}
+  Kills:
+    Isgalamido: 0
+  Kills by means:
+
+Game 2:
+  Total kills: 11
+  Players: {"Dono da Bola", "Isgalamido", "Mocinha"}
+  Kills:
+    Dono da Bola: 0
+    Isgalamido: -5
+    Mocinha: 0
+  Kills by means:
+    MOD_ROCKET_SPLASH: 3
+    MOD_TRIGGER_HURT: 7
+    MOD_FALLING: 1
+
+Game 3:
+  Total kills: 4
+  Players: {"Dono da Bola", "Zeh", "Mocinha", "Isgalamido"}
+  Kills:
+    Dono da Bola: -1
+    Zeh: -2
+    Mocinha: 0
+    Isgalamido: 1
+  Kills by means:
+    MOD_FALLING: 1
+    MOD_ROCKET: 1
+    MOD_TRIGGER_HURT: 2
+
+Game 4:
+  Total kills: 105
+  Players: {"Dono da Bola", "Isgalamido", "Assasinu Credi", "Zeh"}
+  Kills:
+    Assasinu Credi: 13
+    Isgalamido: 19
+    Dono da Bola: 13
+    Zeh: 20
+  Kills by means:
+    MOD_RAILGUN: 8
+    MOD_TRIGGER_HURT: 9
+    MOD_SHOTGUN: 2
+    MOD_ROCKET: 20
+    MOD_FALLING: 11
+    MOD_MACHINEGUN: 4
+    MOD_ROCKET_SPLASH: 51
+
+Game 5:
+  Total kills: 14
+  Players: {"Isgalamido", "Zeh", "Dono da Bola", "Assasinu Credi"}
+  Kills:
+    Assasinu Credi: 1
+    Dono da Bola: 0
+    Zeh: 1
+    Isgalamido: 2
+  Kills by means:
+    MOD_ROCKET_SPLASH: 4
+    MOD_RAILGUN: 1
+    MOD_TRIGGER_HURT: 5
+    MOD_ROCKET: 4
+
+Game 6:
+  Total kills: 29
+  Players: {"UnnamedPlayer", "Dono da Bola", "Oootsimo", "Fasano Again", "Isgalamido", "Zeh", "Maluquinho", "Assasinu Credi", "Mal"}
+  Kills:
+    Dono da Bola: 2
+    Oootsimo: 8
+    Isgalamido: 3
+    Assasinu Credi: 1
+    Fasano Again: 0
+    UnnamedPlayer: 0
+    Maluquinho: 0
+    Zeh: 7
+    Mal: 0
+  Kills by means:
+    MOD_FALLING: 1
+    MOD_RAILGUN: 2
+    MOD_SHOTGUN: 4
+    MOD_ROCKET: 5
+    MOD_ROCKET_SPLASH: 13
+    MOD_TRIGGER_HURT: 3
+    MOD_MACHINEGUN: 1
+
+Game 7:
+  Total kills: 130
+  Players: {"Assasinu Credi", "Zeh", "Mal", "Chessus", "Oootsimo", "Isgalamido", "Chessus!", "Dono da Bola"}
+  Kills:
+    Dono da Bola: 12
+    Assasinu Credi: 22
+    Chessus!: 0
+    Zeh: 9
+    Isgalamido: 16
+    Chessus: 0
+    Oootsimo: 20
+    Mal: -3
+  Kills by means:
+    MOD_FALLING: 7
+    MOD_ROCKET: 29
+    MOD_SHOTGUN: 7
+    MOD_TRIGGER_HURT: 20
+    MOD_MACHINEGUN: 9
+    MOD_ROCKET_SPLASH: 49
+    MOD_RAILGUN: 9
+
+Game 8:
+  Total kills: 89
+  Players: {"Mal", "Assasinu Credi", "Oootsimo", "Dono da Bola", "Zeh", "Isgalamido"}
+  Kills:
+    Isgalamido: 20
+    Oootsimo: 16
+    Dono da Bola: 3
+    Mal: -2
+    Assasinu Credi: 10
+    Zeh: 12
+  Kills by means:
+    MOD_SHOTGUN: 1
+    MOD_ROCKET_SPLASH: 39
+    MOD_ROCKET: 18
+    MOD_FALLING: 6
+    MOD_RAILGUN: 12
+    MOD_MACHINEGUN: 4
+    MOD_TRIGGER_HURT: 9
+
+Game 9:
+  Total kills: 67
+  Players: {"Dono da Bola", "Chessus", "Mal", "Chessus!", "Zeh", "Oootsimo", "Isgalamido", "Assasinu Credi"}
+  Kills:
+    Assasinu Credi: 10
+    Isgalamido: 1
+    Mal: 3
+    Chessus!: 0
+    Oootsimo: 9
+    Chessus: 8
+    Zeh: 12
+    Dono da Bola: 2
+  Kills by means:
+    MOD_ROCKET_SPLASH: 25
+    MOD_MACHINEGUN: 3
+    MOD_SHOTGUN: 1
+    MOD_ROCKET: 17
+    MOD_FALLING: 3
+    MOD_RAILGUN: 10
+    MOD_TRIGGER_HURT: 8
+
+Game 10:
+  Total kills: 60
+  Players: {"Oootsimo", "Mal", "Zeh", "Isgalamido", "Assasinu Credi", "Dono da Bola", "Chessus"}
+  Kills:
+    Dono da Bola: 3
+    Chessus: 5
+    Mal: 1
+    Isgalamido: 6
+    Assasinu Credi: 3
+    Zeh: 7
+    Oootsimo: -1
+  Kills by means:
+    MOD_BFG: 2
+    MOD_ROCKET: 4
+    MOD_BFG_SPLASH: 2
+    MOD_CRUSH: 1
+    MOD_TRIGGER_HURT: 17
+    MOD_ROCKET_SPLASH: 1
+    MOD_MACHINEGUN: 1
+    MOD_RAILGUN: 7
+    MOD_TELEFRAG: 25
+
+Game 11:
+  Total kills: 20
+  Players: {"Oootsimo", "Zeh", "Assasinu Credi", "Isgalamido", "UnnamedPlayer", "Dono da Bola", "Chessus", "Mal"}
+  Kills:
+    Chessus: 0
+    Isgalamido: 5
+    Dono da Bola: -2
+    Oootsimo: 4
+    Zeh: 0
+    Assasinu Credi: -3
+    UnnamedPlayer: 0
+    Mal: 0
+  Kills by means:
+    MOD_MACHINEGUN: 1
+    MOD_ROCKET_SPLASH: 4
+    MOD_RAILGUN: 4
+    MOD_BFG_SPLASH: 3
+    MOD_TRIGGER_HURT: 7
+    MOD_CRUSH: 1
+
+Game 12:
+  Total kills: 160
+  Players: {"Isgalamido", "Mal", "Oootsimo", "Assasinu Credi", "Dono da Bola", "Zeh", "Chessus"}
+  Kills:
+    Oootsimo: 13
+    Zeh: 13
+    Chessus: 13
+    Dono da Bola: 3
+    Assasinu Credi: 20
+    Isgalamido: 26
+    Mal: -6
+  Kills by means:
+    MOD_BFG_SPLASH: 8
+    MOD_BFG: 8
+    MOD_FALLING: 2
+    MOD_MACHINEGUN: 7
+    MOD_ROCKET_SPLASH: 35
+    MOD_RAILGUN: 38
+    MOD_TRIGGER_HURT: 37
+    MOD_ROCKET: 25
+
+Game 13:
+  Total kills: 6
+  Players: {"Oootsimo", "Mal", "Dono da Bola", "Assasinu Credi", "Isgalamido", "Zeh", "Chessus"}
+  Kills:
+    Mal: 0
+    Dono da Bola: -1
+    Zeh: 2
+    Oootsimo: 2
+    Chessus: 0
+    Assasinu Credi: 0
+    Isgalamido: -1
+  Kills by means:
+    MOD_ROCKET: 1
+    MOD_BFG: 1
+    MOD_TRIGGER_HURT: 2
+    MOD_BFG_SPLASH: 1
+    MOD_ROCKET_SPLASH: 1
+
+Game 14:
+  Total kills: 122
+  Players: {"Chessus", "Assasinu Credi", "Dono da Bola", "Oootsimo", "Zeh", "Mal", "Isgalamido"}
+  Kills:
+    Dono da Bola: 2
+    Chessus: 7
+    Assasinu Credi: 7
+    Mal: -2
+    Oootsimo: 9
+    Isgalamido: 22
+    Zeh: 5
+  Kills by means:
+    MOD_BFG_SPLASH: 10
+    MOD_ROCKET: 23
+    MOD_FALLING: 5
+    MOD_TRIGGER_HURT: 31
+    MOD_MACHINEGUN: 4
+    MOD_ROCKET_SPLASH: 24
+    MOD_BFG: 5
+    MOD_RAILGUN: 20
+
+Game 15:
+  Total kills: 3
+  Players: {"Zeh", "Assasinu Credi", "Dono da Bola", "Fasano Again", "Isgalamido", "Oootsimo"}
+  Kills:
+    Isgalamido: 0
+    Oootsimo: 0
+    Zeh: -3
+    Assasinu Credi: 0
+    Dono da Bola: 0
+    Fasano Again: 0
+  Kills by means:
+    MOD_TRIGGER_HURT: 3
+
+Game 16:
+  Total kills: 0
+  Players: {"Isgalamido", "Assasinu Credi", "Dono da Bola", "Zeh", "Oootsimo"}
+  Kills:
+    Assasinu Credi: 0
+    Isgalamido: 0
+    Oootsimo: 0
+    Zeh: 0
+    Dono da Bola: 0
+  Kills by means:
+
+Game 17:
+  Total kills: 13
+  Players: {"Oootsimo", "UnnamedPlayer", "Dono da Bola", "Zeh", "Assasinu Credi", "Isgalamido", "Mal"}
+  Kills:
+    Assasinu Credi: -3
+    Zeh: 0
+    UnnamedPlayer: 0
+    Mal: -1
+    Dono da Bola: -2
+    Oootsimo: 1
+    Isgalamido: 0
+  Kills by means:
+    MOD_TRIGGER_HURT: 6
+    MOD_RAILGUN: 2
+    MOD_ROCKET_SPLASH: 2
+    MOD_FALLING: 3
+
+Game 18:
+  Total kills: 7
+  Players: {"Oootsimo", "Assasinu Credi", "Zeh", "Dono da Bola", "Mal", "Isgalamido"}
+  Kills:
+    Zeh: 2
+    Assasinu Credi: 2
+    Mal: -1
+    Oootsimo: 0
+    Dono da Bola: -1
+    Isgalamido: 1
+  Kills by means:
+    MOD_TRIGGER_HURT: 1
+    MOD_ROCKET: 1
+    MOD_FALLING: 1
+    MOD_ROCKET_SPLASH: 4
+
+Game 19:
+  Total kills: 95
+  Players: {"Oootsimo", "Isgalamido", "Dono da Bola", "Mal", "Assasinu Credi", "Zeh"}
+  Kills:
+    Oootsimo: 10
+    Zeh: 20
+    Isgalamido: 14
+    Assasinu Credi: 9
+    Dono da Bola: 14
+    Mal: 2
+  Kills by means:
+    MOD_ROCKET: 27
+    MOD_MACHINEGUN: 7
+    MOD_ROCKET_SPLASH: 32
+    MOD_RAILGUN: 10
+    MOD_FALLING: 1
+    MOD_TRIGGER_HURT: 12
+    MOD_SHOTGUN: 6
+
+Game 20:
+  Total kills: 3
+  Players: {"Isgalamido", "Dono da Bola", "Mal", "Assasinu Credi", "Zeh", "Oootsimo"}
+  Kills:
+    Assasinu Credi: 0
+    Isgalamido: 0
+    Oootsimo: 1
+    Zeh: 0
+    Dono da Bola: 2
+    Mal: 0
+  Kills by means:
+    MOD_ROCKET: 1
+    MOD_ROCKET_SPLASH: 2
+
+Game 21:
+  Total kills: 131
+  Players: {"Mal", "Dono da Bola", "Isgalamido", "Zeh", "Oootsimo", "Assasinu Credi"}
+  Kills:
+    Dono da Bola: 14
+    Isgalamido: 17
+    Oootsimo: 22
+    Assasinu Credi: 19
+    Zeh: 19
+    Mal: 6
+  Kills by means:
+    MOD_SHOTGUN: 4
+    MOD_ROCKET: 37
+    MOD_FALLING: 3
+    MOD_RAILGUN: 9
+    MOD_MACHINEGUN: 4
+    MOD_TRIGGER_HURT: 14
+    MOD_ROCKET_SPLASH: 60
+
+Player Ranking:
+  1. Isgalamido: 147
+  2. Zeh: 124
+  3. Oootsimo: 114
+  4. Assasinu Credi: 111
+  5. Dono da Bola: 63
+  6. Chessus: 33
+  7. Maluquinho: 0
+  8. Fasano Again: 0
+  9. Chessus!: 0
+  10. UnnamedPlayer: 0
+  11. Mocinha: 0
+  12. Mal: -3
