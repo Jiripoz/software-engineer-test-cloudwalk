@@ -28,7 +28,7 @@ fn test_add_kill() {
     assert_eq!(game.players.len(), 2);
 
     assert_eq!(game.kills.get("Player1"), Some(&1));
-    assert_eq!(game.kills.get("Player2"), None);
+    assert_eq!(game.kills.get("Player2"), Some(&0));
     assert_eq!(game.kills_by_means.get("MOD_RAILGUN"), Some(&1));
 }
 
@@ -40,7 +40,7 @@ fn test_add_player() {
     game.add_player("Player1".to_string());
     assert_eq!(game.total_kills, 0);
     assert_eq!(game.players, HashSet::from(["Player1".to_string()]));
-    assert!(game.kills.is_empty());
+    assert_eq!(game.kills, [("Player1".to_string(), 0)].iter().cloned().collect());
     assert!(game.kills_by_means.is_empty());
 
     // Add the same player again
@@ -61,6 +61,6 @@ fn test_add_player() {
         .collect();
     assert_eq!(game.players, expected_players);
     assert_eq!(game.total_kills, 0);
-    assert!(game.kills.is_empty());
+    assert_eq!(game.kills, [("Player1".to_string(), 0), ("Player2".to_string(), 0)].iter().cloned().collect());
     assert!(game.kills_by_means.is_empty());
 }
