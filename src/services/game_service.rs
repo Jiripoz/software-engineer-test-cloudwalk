@@ -35,8 +35,8 @@ impl GameService for Game {
     }
 
     fn add_player(&mut self, player: String) {
-        if player != "<world>" {
-            self.players.insert(player);
+        if player != "<world>" && self.players.insert(player.clone()) {
+            self.kills.insert(player, 0);
         }
     }
 }
