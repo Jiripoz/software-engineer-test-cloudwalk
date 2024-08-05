@@ -6,4 +6,4 @@ mod report_service;
 pub use game_service::GameService;
 pub use kill_service::KillService;
 pub use parser_service::{ParserService, QuakeParser};
-pub use report_service::ReportService;
+pub use report_service::{ReportService, QuakeReport};
