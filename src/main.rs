@@ -1,7 +1,7 @@
-#[cfg(test)]
-pub mod tests;
 pub mod models;
 pub mod services;
+#[cfg(test)]
+pub mod tests;
 
 fn main() {
     // receive the input via args().collect()

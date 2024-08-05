@@ -1,6 +1,5 @@
-use std::collections::{HashMap, HashSet};
 use crate::models::{Game, Kill};
-
+use std::collections::{HashMap, HashSet};
 
 pub trait GameService {
     fn new() -> Self;
