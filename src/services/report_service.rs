@@ -1,15 +1,37 @@
-use std::collections::HashMap;
+//! Report generation services for Quake game statistics.
 
+use std::collections::HashMap;
 use crate::models::Game;
 
+/// Defines the interface for generating reports from game data.
 pub trait ReportService {
+    /// Prints a detailed report for each game.
+    ///
+    /// # Arguments
+    ///
+    /// * `games` - A slice of Game instances to report on.
     fn print_report(games: &[Game]);
+    /// Prints a ranking of players based on their total kills across all games.
+    ///
+    /// # Arguments
+    ///
+    /// * `games` - A slice of Game instances to calculate the ranking from.
     fn print_player_ranking(games: &[Game]);
 }
 
+
+/// Implements the ReportService for Quake game reports.
 pub struct QuakeReport;
 
 impl ReportService for QuakeReport {
+    /// Prints a detailed report for each game and an overall player ranking.
+    ///
+    /// This function displays:
+    /// - Total kills per game
+    /// - Players in each game
+    /// - Kill count per player in each game
+    /// - Kills by weapon type in each game
+    /// - Overall player ranking
     fn print_report(games: &[Game]) {
         for (i, game) in games.iter().enumerate() {
             println!("Game {}:", i + 1);
@@ -29,6 +51,12 @@ impl ReportService for QuakeReport {
         Self::print_player_ranking(games);
     }    
 
+    /// Calculates and prints the overall player ranking based on total kills.
+    ///
+    /// This function:
+    /// - Aggregates kills for each player across all games
+    /// - Sorts players by their total kill count
+    /// - Prints the sorted ranking
     fn print_player_ranking(games: &[Game]) {
         let mut total_kills: HashMap<String, i32> = HashMap::new();
     
