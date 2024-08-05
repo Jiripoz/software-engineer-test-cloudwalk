@@ -1,5 +1,5 @@
 use crate::models::{Game, Kill};
-use crate::services::{kill_service::KillService, game_service::GameService};
+use crate::services::{game_service::GameService, kill_service::KillService};
 use regex::Regex;
 use std::fs::File;
 use std::io::{BufRead, BufReader};
@@ -18,10 +18,12 @@ impl ParserService for QuakeParser {
         let mut games: Vec<Game> = Vec::new();
         let mut current_game: Option<Game> = None;
 
-        let kill_regex = Regex::new(r"(\d+:\d+) Kill: (\d+) (\d+) (\d+): (.+) killed (.+) by (.+)").unwrap();
+        let kill_regex =
+            Regex::new(r"(\d+:\d+) Kill: (\d+) (\d+) (\d+): (.+) killed (.+) by (.+)").unwrap();
         let init_game_regex = Regex::new(r"InitGame:").unwrap();
         let shutdown_game_regex = Regex::new(r"ShutdownGame:").unwrap();
-        let client_userinfo_changed_regex = Regex::new(r"ClientUserinfoChanged: \d+ n\\(.+?)\\").unwrap();
+        let client_userinfo_changed_regex =
+            Regex::new(r"ClientUserinfoChanged: \d+ n\\(.+?)\\").unwrap();
 
         for line in reader.lines() {
             let line = line?;
